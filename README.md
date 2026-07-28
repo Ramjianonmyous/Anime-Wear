@@ -238,7 +238,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 ## 👨‍💻 Author
 
 **Ramjianonmyous**
-- **LinkdIn**: [@Ramjianonmyous](https://github.com/Ramjianonmyous)
-- **Portfolio**: [@Ramjianonmyous](https://github.com/Ramjianonmyous)
+- **LinkdIn**: [@Ramjianonmyous](https://www.linkedin.com/in/ram-kaithwas-329419257/)
+- **Portfolio**: [@Ramjianonmyous](https://portfolio-2-0-kohl-five.vercel.app/)
 - **GitHub**: [@Ramjianonmyous](https://github.com/Ramjianonmyous)
 - **Project Repository**: [https://github.com/Ramjianonmyous/Anime-Wear](https://github.com/Ramjianonmyous/Anime-Wear)
