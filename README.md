@@ -232,14 +232,13 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
 ## 👨‍💻 Author
 
 **Ramjianonmyous**
+- **LinkdIn**: [@Ramjianonmyous](https://github.com/Ramjianonmyous)
+- **Portfolio**: [@Ramjianonmyous](https://github.com/Ramjianonmyous)
 - **GitHub**: [@Ramjianonmyous](https://github.com/Ramjianonmyous)
 - **Project Repository**: [https://github.com/Ramjianonmyous/Anime-Wear](https://github.com/Ramjianonmyous/Anime-Wear)
