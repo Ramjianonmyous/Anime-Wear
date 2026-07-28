@@ -7,8 +7,8 @@
 ## 🚀 Live Demo & Repository
 
 - **GitHub Repository**: [https://github.com/Ramjianonmyous/Anime-Wear](https://github.com/Ramjianonmyous/Anime-Wear)
-- **Frontend Live (Vercel)**: [`https://your-app.vercel.app`](https://anime-wear-six.vercel.app/)
-- **Backend API (Render/Railway)**: [`https://your-backend.onrender.com`https://anime-wear.onrender.com](https://anime-wear.onrender.com)
+- **Frontend Live (Vercel)**: (https://anime-wear-six.vercel.app/)
+- **Backend API (Render/Railway)**: (https://anime-wear.onrender.com)
 
 ---
 
